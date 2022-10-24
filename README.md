@@ -1,20 +1,19 @@
-# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/TonyHerbert22ATX" >Visit Here</a> 
+# LeetCodes Challenges: <a target="_blank" href="https://leetcode.com/TonyHerbert22/" >Visit Here</a> 
 
-This space is dedicated for my currently codewars progression, I like to keep track of every challenge that I overcome and I will do my best to go back, review my code and refactor with new and more efficient things that i've learned. 
+This space is dedicated for my current Leetcode progression, I like to keep track of every challenge that I overcome and I will do my best to go back, review my code and refactor with new and more efficient things that i've learned. 
 
-https://github.com/TonyHerbert22ATX/CodeWars
+https://github.com/TonyHerbert22ATX/LeetCode
 
-![alt tag](https://www.codewars.com/users/TonyHerbert22ATX/badges/large)
 
 ## How It's Made:
 
 **Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 
-Everyday, the first thing I do is solve a Codewar! 
+Everyday, the first thing I do is solve a Leetcode! 
 
 ## Optimizations
 
-I'm constantly reviewing my codewars to see if there is a better way to approach every problem to make it more readable, efficient, or even shorter.  
+I'm constantly reviewing my Leetcode to see if there is a better way to approach every problem to make it more readable, efficient, or even shorter.  
 
 ## Lessons Learned:
 
