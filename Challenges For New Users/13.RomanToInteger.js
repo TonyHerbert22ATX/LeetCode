@@ -30,7 +30,7 @@ function romanToInt(s){
     return result
 }
 
-// * SECOND TRY to try a quicker result
+// * SECOND TRY
 function romanToInt(s){
     let result = 0
     for(let i = 0; i < s.length; i++){
